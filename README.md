@@ -1,2 +1,2 @@
-# Ingenier-a-software-autodidacta
+# Ingenieria-software-autodidacta
 Carrera autodidacta en ingeniería de software - proyectos y aprendizaje
