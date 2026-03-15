@@ -1,8 +1,8 @@
 # Semestre 2 — JavaScript Avanzado y Aplicaciones Web
 
-Duración: 15 semanas  
+Duración: 16 semanas  
 Horas semanales: 30  
-Total aproximado: 450 horas
+Total aproximado: 480 horas
 
 ---
 
@@ -169,6 +169,10 @@ Objetivos del proyecto:
 - integrar APIs externas
 - construir una aplicación interactiva real
 - ampliar el portafolio del estudiante
+
+El desarrollo del proyecto se realizará
+durante las últimas semanas del semestre
+para integrar todos los conocimientos aprendidos.
 
 ---
 
