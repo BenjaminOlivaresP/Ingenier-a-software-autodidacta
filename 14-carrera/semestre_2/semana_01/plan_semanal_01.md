@@ -194,6 +194,35 @@ Crear objetos que representen:
 
 ---
 
+# Mini proyecto de repaso
+
+Aplicación:
+
+Lista de tareas simple en JavaScript.
+
+Funcionalidades:
+
+- agregar tareas
+- mostrar lista de tareas
+- marcar tareas como completadas
+- eliminar tareas
+
+Objetivo:
+
+Reforzar el uso de:
+
+- funciones
+- arrays
+- objetos
+- lógica condicional
+
+Este mini proyecto sirve como puente entre
+los fundamentos del semestre anterior
+y los conceptos avanzados que se estudiarán
+durante este semestre.
+
+---
+
 # Entregables de la semana
 
 Documentos:
@@ -206,7 +235,8 @@ Documentos:
 
 Código:
 
-- ejercicios de práctica en JavaScript.
+- ejercicios de práctica en JavaScript
+- mini proyecto de lista de tareas
 
 ---
 
@@ -217,8 +247,12 @@ los temas avanzados del lenguaje que se verán
 a partir de la semana 2.
 
 Una base sólida aquí facilita el aprendizaje
-de conceptos más complejos como closures,
-asincronía y manejo avanzado de datos.
+de conceptos más complejos como:
+
+- closures
+- programación funcional
+- asincronía
+- manejo avanzado de datos
 
 ---
 
@@ -231,5 +265,6 @@ Responder:
 3. ¿Puedo manipular arrays y objetos?
 4. ¿Comprendo la lógica básica del lenguaje?
 
-Si la mayoría es **sí**, el estudiante está preparado
-para continuar con el siguiente nivel.
+Si la mayoría de las respuestas es **sí**, el estudiante
+tiene una base sólida para comenzar el estudio de
+JavaScript avanzado en la semana 2.
