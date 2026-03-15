@@ -8,8 +8,7 @@ Total aproximado: 480 horas
 
 # Objetivo del semestre
 
-Aprender a integrar frontend y backend para construir aplicaciones
-full stack completas y funcionales.
+Integrar frontend y backend para construir aplicaciones **full stack completas, funcionales y escalables**.
 
 Durante este semestre el estudiante desarrollará habilidades en:
 
@@ -20,8 +19,7 @@ Durante este semestre el estudiante desarrollará habilidades en:
 - testing, optimización y despliegue de aplicaciones  
 - buenas prácticas de organización de proyectos full stack
 
-El objetivo es transformar los conocimientos de backend en habilidades
-para construir sistemas completos, seguros y escalables.
+El objetivo es transformar los conocimientos de backend en habilidades para construir sistemas completos, seguros y escalables.
 
 Al finalizar el semestre el estudiante será capaz de:
 
@@ -183,3 +181,5 @@ Al finalizar el semestre el estudiante tendrá:
 - habilidad para implementar autenticación y seguridad web  
 - experiencia en testing, optimización y despliegue de aplicaciones  
 - proyectos full stack completos listos para producción o portafolio
+
+Esto prepara al estudiante para avanzar al **Año 3 — Ingeniería avanzada**, donde se profundizará en arquitectura de software, escalabilidad y despliegue profesional de aplicaciones.
