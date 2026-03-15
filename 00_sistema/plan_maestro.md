@@ -72,7 +72,7 @@ La carrera está organizada en:
 
 Cada semestre tiene:
 
-- 15 semanas de estudio
+- 16 semanas de estudio
 - planificación semanal
 - objetivos claros
 - proyectos prácticos
