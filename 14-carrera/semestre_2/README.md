@@ -3,7 +3,7 @@
 Este semestre profundiza en la programación con JavaScript
 y en la construcción de aplicaciones web dinámicas.
 
-Durante estas 15 semanas se desarrollarán habilidades
+Durante estas **16 semanas** se desarrollarán habilidades
 para trabajar con datos, asincronía y servicios externos.
 
 Tecnologías utilizadas:
@@ -14,6 +14,7 @@ Tecnologías utilizadas:
 - Promesas
 - Async / Await
 - APIs externas
+- LocalStorage
 
 El objetivo del semestre es pasar de escribir
 scripts simples a construir aplicaciones web
@@ -37,10 +38,11 @@ Semana 10 — Async / Await
 Semana 11 — Consumo de APIs  
 
 Semana 12 — Manejo de datos en aplicaciones  
-Semana 13 — Almacenamiento local (LocalStorage)  
+Semana 13 — Almacenamiento local (LocalStorage)
 
 Semana 14 — Proyecto interactivo avanzado  
-Semana 15 — Proyecto final
+Semana 15 — Desarrollo del proyecto final  
+Semana 16 — Finalización y presentación del proyecto
 
 ---
 
@@ -63,6 +65,7 @@ El proyecto integrará:
 - asincronía
 - manipulación del DOM
 - manejo de datos
+- almacenamiento local
 
 ---
 
@@ -74,6 +77,7 @@ Al finalizar el semestre el estudiante podrá:
 - trabajar con datos dinámicos
 - consumir APIs externas
 - manejar asincronía
+- almacenar información en el navegador
 - construir aplicaciones web interactivas
 
 Esto prepara al estudiante para comenzar
