@@ -69,3 +69,4 @@ si numero1 == numero2 entonces
 
 FIN
 
+---
