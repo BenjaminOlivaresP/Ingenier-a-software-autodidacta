@@ -1,8 +1,8 @@
 # Semestre 5 — Arquitectura de Software
 
-Duración: 16 semanas  
-Horas semanales: 30  
-Total aproximado: 480 horas
+**Duración:** 17 semanas  
+**Horas semanales:** 30  
+**Total aproximado:** 510 horas
 
 ---
 
@@ -12,25 +12,27 @@ Comprender cómo se diseñan y estructuran **sistemas de software complejos**, a
 
 Durante este semestre el estudiante desarrollará habilidades en:
 
-- diseño de **arquitecturas de software modernas**
-- aplicación de **patrones de diseño**
-- desarrollo de **sistemas basados en servicios**
-- construcción de **microservicios**
-- implementación de **testing profesional**
-- optimización y análisis de rendimiento
-- uso de contenedores para entornos reproducibles
+- diseño de **arquitecturas de software modernas**  
+- aplicación de **patrones de diseño**  
+- desarrollo de **sistemas basados en servicios**  
+- construcción de **microservicios**  
+- implementación de **testing profesional**  
+- optimización y análisis de rendimiento  
+- uso de contenedores para entornos reproducibles  
+- integración de conceptos avanzados de **arquitectura de sistemas**
 
 El objetivo es que el estudiante evolucione desde la construcción de aplicaciones completas hacia la **capacidad de diseñar sistemas escalables y mantenibles**.
 
 Al finalizar el semestre el estudiante será capaz de:
 
-- diseñar arquitecturas de software robustas
-- aplicar principios SOLID y patrones de diseño
-- construir sistemas modulares y desacoplados
-- implementar microservicios básicos
-- utilizar Docker para entornos de desarrollo
-- implementar testing profesional
-- analizar y optimizar rendimiento de software
+- diseñar arquitecturas de software robustas  
+- aplicar principios SOLID y patrones de diseño  
+- construir sistemas modulares y desacoplados  
+- implementar microservicios básicos  
+- utilizar Docker para entornos de desarrollo  
+- implementar testing profesional  
+- analizar y optimizar rendimiento de software  
+- integrar conocimientos avanzados de arquitectura a gran escala
 
 ---
 
@@ -40,15 +42,14 @@ Al finalizar el semestre el estudiante será capaz de:
 
 Estudio del diseño estructural de sistemas de software complejos.
 
-Temas principales:
+**Temas principales:**
 
 - conceptos fundamentales de arquitectura de software  
 - arquitectura monolítica vs arquitectura distribuida  
 - arquitectura en capas  
 - diseño modular y separación de responsabilidades  
 
-Objetivo:
-
+**Objetivo:**  
 Comprender cómo organizar sistemas grandes de forma mantenible y escalable.
 
 ---
@@ -57,15 +58,14 @@ Comprender cómo organizar sistemas grandes de forma mantenible y escalable.
 
 Aplicación de soluciones reutilizables para problemas comunes en desarrollo de software.
 
-Temas principales:
+**Temas principales:**
 
 - introducción a los design patterns  
 - patrones creacionales  
 - patrones estructurales  
 - patrones de comportamiento  
 
-Objetivo:
-
+**Objetivo:**  
 Aprender a diseñar software reutilizable, flexible y bien estructurado.
 
 ---
@@ -74,15 +74,14 @@ Aprender a diseñar software reutilizable, flexible y bien estructurado.
 
 Comprensión de cómo funcionan los sistemas compuestos por múltiples servicios.
 
-Temas principales:
+**Temas principales:**
 
 - fundamentos de sistemas distribuidos  
 - comunicación entre servicios  
 - consistencia y disponibilidad  
 - tolerancia a fallos  
 
-Objetivo:
-
+**Objetivo:**  
 Diseñar sistemas capaces de operar en múltiples procesos o servidores.
 
 ---
@@ -91,15 +90,14 @@ Diseñar sistemas capaces de operar en múltiples procesos o servidores.
 
 Diseño de aplicaciones basadas en servicios independientes.
 
-Temas principales:
+**Temas principales:**
 
 - arquitectura de microservicios  
 - comunicación mediante APIs  
 - separación de dominios  
 - ventajas y desventajas frente a monolitos  
 
-Objetivo:
-
+**Objetivo:**  
 Comprender cuándo y cómo dividir un sistema en múltiples servicios.
 
 ---
@@ -108,15 +106,14 @@ Comprender cuándo y cómo dividir un sistema en múltiples servicios.
 
 Aseguramiento de calidad en sistemas complejos.
 
-Temas principales:
+**Temas principales:**
 
 - pruebas unitarias  
 - pruebas de integración  
 - pruebas de sistema  
 - automatización de pruebas  
 
-Objetivo:
-
+**Objetivo:**  
 Garantizar estabilidad y confiabilidad en aplicaciones grandes.
 
 ---
@@ -125,44 +122,60 @@ Garantizar estabilidad y confiabilidad en aplicaciones grandes.
 
 Uso de herramientas modernas para ejecutar software de manera consistente.
 
-Temas principales:
+**Temas principales:**
 
 - introducción a Docker  
 - contenedores y virtualización ligera  
 - creación de imágenes  
 - ejecución de aplicaciones en contenedores  
 
-Objetivo:
-
+**Objetivo:**  
 Construir entornos reproducibles y portables para desarrollo y despliegue.
+
+---
+
+## Módulo Especial — Arquitectura Avanzada de Sistemas (Semana 15)
+
+Este módulo complementa el semestre y profundiza en el pensamiento de arquitectura profesional.
+
+**Temas principales:**
+
+- desarrollo de pensamiento de arquitecto de software  
+- análisis de sistemas complejos del mundo real  
+- diseño de plataformas digitales  
+- modelado de sistemas complejos  
+
+**Proyecto del módulo:**  
+Diseño arquitectónico completo de un sistema de software moderno.
+
+**Objetivo:**  
+Preparar al estudiante para integrar todo el conocimiento en el proyecto final del semestre y desarrollar habilidades avanzadas de diseño de sistemas a gran escala.
 
 ---
 
 # Proyecto del semestre
 
-Diseño e implementación de un sistema con arquitectura modular o basada en servicios.
+El proyecto se desarrollará desde la **Semana 14 hasta la Semana 17**, incluyendo la integración de los conceptos aprendidos en el módulo especial.
 
-Proyecto:
+**Aplicación:** Sistema de software modular o basado en microservicios.
 
-Sistema backend organizado en módulos o microservicios.
-
-Funcionalidades posibles:
+**Funcionalidades posibles:**
 
 - múltiples servicios independientes  
 - comunicación mediante APIs REST  
 - contenedores Docker para ejecución  
 - testing automatizado  
 - arquitectura modular clara  
+- documentación técnica del sistema
 
-Objetivos del proyecto:
+**Objetivos del proyecto:**
 
 - aplicar principios de arquitectura de software  
 - diseñar sistemas desacoplados y mantenibles  
-- implementar microservicios básicos  
+- implementar microservicios  
+- integrar conocimientos avanzados del módulo especial  
 - utilizar contenedores para desarrollo y ejecución  
 - documentar la arquitectura del sistema
-
-El desarrollo del proyecto se realizará durante las últimas semanas del semestre para integrar todos los conocimientos aprendidos.
 
 ---
 
@@ -174,7 +187,6 @@ Al finalizar el semestre el estudiante tendrá:
 - capacidad para diseñar sistemas modulares y escalables  
 - conocimiento práctico de microservicios  
 - experiencia en testing profesional  
-- manejo básico de Docker y contenedores  
-- experiencia en diseño estructural de sistemas complejos  
-
-Esto prepara al estudiante para el **Semestre 6 — Ingeniería de Sistemas Escalables**, donde se profundizará en cloud computing, seguridad avanzada y despliegue profesional de aplicaciones.
+- manejo avanzado de Docker y contenedores  
+- integración de conocimientos de arquitectura avanzada  
+- preparación para el **Semestre 6 — Ingeniería de Sistemas Escalables**, donde se profundizará en cloud computing, seguridad avanzada y despliegue profesional de aplicaciones
