@@ -8,9 +8,10 @@ El objetivo es aprender a descomponer problemas en pasos lógicos que un computa
 
 ## Ejercicio 1 - Determinar si un número es par o impar
 
-Problema: Determinar si un número ingresado por el usuario es par o impar.
+Problema:
+Determinar si un número ingresado por el usuario es par o impar.
 
-pseudocódigo:
+Pseudocódigo:
 
 INICIO
 
@@ -24,6 +25,7 @@ si no
 FIN
 
 ---
+
 
 ## Ejercicio 2 - Área de un rectángulo
 
