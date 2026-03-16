@@ -1,4 +1,11 @@
 # Algoritmos básicos
+
+Este documento contiene ejercicios de pensamiento computacional utizando pseudocódigo.
+
+El objetivo es aprender a descomponer problemas en pasos lógicos que un computador pueda ejecutar.
+
+
+
 ## Ejercicio 1 - Determinar si un número es par o impar
 
 Problema: Determinar si un número ingresado por el usuario es par o impar.
@@ -7,7 +14,7 @@ pseudocódigo:
 
 INICIO
 
-Leer numero
+leer numero
 
 si numero % 2 == 0 entonces
     mostrar "El número es par"
@@ -26,8 +33,8 @@ Calcular el área de un rectángulo a partir de su base y altura.
 Pseudocódigo:
 
 INICIO
-Leer base
-Leer altura
+leer base
+leer altura
 
 area = base * altura
 
@@ -59,3 +66,4 @@ si numero1 == numero2 entonces
     mostrar "los números son iguales"  
 
 FIN
+
