@@ -34,6 +34,8 @@ El procesador ejecuta millones o incluso miles de millones de instrucciones por 
 
 Un algoritmo es un conjunto ordenado de pasos que permiten resolver un problema.
 
+(para decirlo de manera informal un algoritmo viene siendo una lista ordenada de pasos(instrucciones) diseñada para  resolver un problema.)
+
 Los programas están construidos a partir de algoritmos. Cuando un programador escribe código, en realidad está implementando algoritmos que el computador ejecutará para producir un resultado específico.
 
 ---
@@ -43,3 +45,20 @@ Los programas están construidos a partir de algoritmos. Cuando un programador e
 En resumen, un computador es una máquina que ejecuta algoritmos mediante programas que controlan el hardware.
 
 Su funcionamiento se basa en recibir datos, procesarlos mediante instrucciones y producir resultados. Este principio es la base de toda la informática y del desarrollo de software.
+
+---
+
+## Concepto clave
+
+Un computador no "piensa".
+Solo **ejecuta instrucciones** extremadamente rápido.
+
+La inteligencia del sistema proviene del **software y los algoritmos diseñados por los programadores**.
+
+---
+
+## Reflexión
+
+Comprender cómo funcionan los computadores permite entender que el software no es magia, sino una serie de intrucciones organizadas que resuelven problemas de manera sistemática.
+
+Esta idea es el punto de partida para aprender programación e ingeniería de software.
