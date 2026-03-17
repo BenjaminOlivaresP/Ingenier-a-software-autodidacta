@@ -2,7 +2,7 @@
 
 ---
 
-## html
+## html 000001
 
 **Tipo:** etiqueta raíz  
 **Función:** define el inicio y fin de un documento HTML  
@@ -28,7 +28,7 @@ Sin esta etiqueta, el navegador no reconoce correctamente el documento como una 
 
 ---
 
-## head
+## head  000002
 
 **Tipo:** etiqueta  
 **Función:** contiene información de configuración de la página  
@@ -54,7 +54,7 @@ Es una parte esencial para que la página funcione correctamente.
 
 ---
 
-## title
+## title 000003
 
 **Tipo:** etiqueta  
 **Función:** define el título de la página en el navegador  
@@ -77,7 +77,7 @@ No es contenido visible dentro de la página, pero es importante porque:
 
 ---
 
-## link
+## link 000004
 
 **Tipo:** etiqueta  
 **Función:** conectar recursos externos al HTML (como archivos CSS)  
@@ -107,7 +107,7 @@ Es una etiqueta especial porque:
 
 ---
 
-## body
+## body 000005
 
 **Tipo:** etiqueta  
 **Función:** contiene todo el contenido visible de la página  
@@ -133,5 +133,104 @@ Todo lo que aparece en pantalla está dentro del <body>.
     <h1>Hola mundo</h1>
     <p>Este es un texto</p>
 </body>
+
+---
+
+## h1 000006
+
+**Tipo:** etiqueta  
+**Función:** define el título principal de la página  
+
+**Descripción:**
+
+La etiqueta <h1> se utiliza para mostrar el título más importante dentro del contenido visible de la página.
+
+Es el encabezado de mayor nivel y debe representar la idea principal del contenido.
+
+Solo debería haber un <h1> principal por página para mantener una buena estructura.
+
+**Ejemplo:**
+
+<h1>Bienvenido a mi página</h1>
+
+---
+
+## h2 000007
+
+**Tipo:** etiqueta  
+**Función:** define un subtítulo o encabezado de segundo nivel  
+
+**Descripción:**
+
+La etiqueta `<h2>` se utiliza para mostrar títulos secundarios dentro de una página web.  
+Representa la **jerarquía inmediata** debajo del `<h1>` y ayuda a organizar el contenido en secciones.
+
+Se pueden usar múltiples `<h2>` en una página, cada uno para dividir diferentes secciones temáticas.
+
+**Ejemplo:**
+
+<h2>Sección de Productos</h2>
+
+---
+
+## p 000008
+
+**Tipo:** etiqueta  
+**Función:** define un párrafo de texto  
+
+**Descripción:**
+
+La etiqueta `<p>` se utiliza para mostrar bloques de texto dentro de la página web.  
+Cada párrafo está separado del anterior y del siguiente, generando espacio vertical automáticamente.
+
+Se usa para contenido general como descripciones, explicaciones o cualquier texto que quieras mostrar de forma organizada.
+
+**Ejemplo:**
+
+<p>Este es un párrafo de ejemplo donde explicamos algo importante sobre la página.</p>
+
+---
+
+## img 000009
+
+**Tipo:** etiqueta  
+**Función:** insertar una imagen en la página  
+
+**Descripción:**
+
+La etiqueta `<img>` permite mostrar imágenes dentro de la página web.
+
+Es una etiqueta **autocontenida** (no tiene cierre) y requiere al menos el atributo `src` para indicar la ruta de la imagen.
+
+Opcionalmente puede llevar atributos como:
+
+- `alt` → texto alternativo si la imagen no carga  
+- `width` → ancho de la imagen  
+- `height` → alto de la imagen  
+
+**Ejemplo:**
+
+<img src="logo.png" alt="Logotipo de la empresa" width="200" height="100">
+
+---
+
+## a 000010
+
+**Tipo:** etiqueta  
+**Función:** crear enlaces a otras páginas o recursos  
+
+**Descripción:**
+
+La etiqueta `<a>` se utiliza para enlazar a otras páginas web, archivos o secciones dentro de la misma página.
+
+Atributos importantes:
+
+- `href` → define la URL o ruta del enlace  
+- `target` → define dónde se abrirá el enlace (`_blank` para nueva pestaña)  
+- `rel` → define la relación del enlace con el documento actual (ej: `noopener`, `nofollow`)  
+
+**Ejemplo:**
+
+<a href="https://www.ejemplo.com" target="_blank" rel="noopener">Visitar ejemplo</a>
 
 ---
